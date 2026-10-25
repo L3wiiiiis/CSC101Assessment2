@@ -1,0 +1,13 @@
+The prompt;
+I'm going to paste here some calculation with answers. please validate if they are correct                                                                                                                                                                  
+
+```markdown
+ $45.80 * 0.15 = $6.87                                            $45.80 + $6.87 = $52.67                                           5 * $0.50 = $2.50                                                25 * $0.50 = $12.50                
+```
+
+
+AI Answer;
+
+All four calculations are mathematically correct
+
+
